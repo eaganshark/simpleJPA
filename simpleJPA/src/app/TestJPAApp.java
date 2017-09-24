@@ -11,6 +11,7 @@ public class TestJPAApp {
 
 	public static void main(String[] args) {
 		
+		// Testing GIT check-in
 		System.out.println("Beginning TestJPAApp Program...");
 		
 		if (args.length != 1) {
